@@ -1,0 +1,7 @@
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
+
+APP_HOST = "0.0.0.0"
+APP_PORT = 8000
+
+IS_DEBUG = True
